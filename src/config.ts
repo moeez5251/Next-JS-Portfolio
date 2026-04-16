@@ -16,7 +16,7 @@ export const config = {
     },
     experiences: [
         {
-            position: "Learning Something New",
+            position: "Full Stack Developer",
             company: "Self-Development",
             period: "2025 - Present",
             location: "Pakistan",
@@ -26,7 +26,20 @@ export const config = {
                 "Contributing to open-source projects",
                 "Building innovative personal projects"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
+        },
+        {
+            position: "Full Stack Engineer - Intern",
+            company: "HexSoftwares",
+            period: "2026",
+            location: "Pakistan",
+            description: "Develop and deploy web applications using React and Node.js. Build RESTful APIs and integrate databases. Create responsive and interactive user interfaces. Maintain and deploy web applications.",
+            responsibilities: [
+                "Develop full-stack web applications using React and Node.js",
+                "Build RESTful APIs and integrate databases",
+                "Create responsive and interactive user interfaces",
+            ],
+            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
         },
         {
             position: "Full Stack Developer",
